@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Requirements
 
 | Name | Version |
@@ -38,3 +39,6 @@ No modules.
 ## Outputs
 
 No outputs.
+=======
+# clc12-network
+>>>>>>> 5b06c74c62f34c5fa27257593d2f54eae42ab0c0
